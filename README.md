@@ -4,9 +4,11 @@
 - working out
 - plants
 - 🌱 I’m currently learning ...
-- to code
-- japanese
-- spanish
+- React
+- Redux
+- Js
+- Node.js
+  Quite challenging at this moment.
 - 💞️ I’m looking to collaborate on ...
 - nothing at the moment
 - 📫 How to reach me ...
